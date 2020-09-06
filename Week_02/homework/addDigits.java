@@ -30,7 +30,7 @@ class Solution {
 }
 
 //解法二  模9法
-
+//https://leetcode-cn.com/problems/add-digits/solution/san-bu-qing-song-li-jie-o1-by-data-t/
 class Solution {
     public int addDigits(int num) {
         return (num-1)%9+1;
