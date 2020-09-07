@@ -49,3 +49,35 @@ class Solution {
         return result;
     }
 }
+
+//解法二:
+//利用大顶堆的peek()是最大值，remove(num)可以直接去除num元素，每一轮去掉一个数，再添加一个数，将当前peek添加到结果中
+//时间复杂度 nlogn   堆每次删除和插入都是 logn的时间复杂度
+class Solution {
+    public int[] maxSlidingWindow(int[] nums, int k) {
+        if (nums == null || nums.length == 0 || k <= 0)
+            return new int[0];
+
+        PriorityQueue<Integer> queue = new PriorityQueue<Integer>((a, b) -> b - a);
+        //将k的窗口填满
+        for (int i = 0; i < k; i++){
+            queue.add(nums[i]);
+        }
+        //答案结果集
+        int[] res = new int[nums.length - k + 1];//第一个k分组内的最大值取一个所以要+1,之后的最多是n-k个最大值
+        int j = 0;
+        //第一个k分组内的最大值放到结果集中
+        res[j++] = queue.peek();
+        //从k开始滑动
+        for (int i = k; i < nums.length; i++){
+            //将窗口前滑出的元素删掉
+            queue.remove(nums[i - k]);
+            //将窗口后滑到的元素放入大顶堆中排序
+            queue.add(nums[i]);
+            //将大顶堆中的最大值放到结果集中
+            res[j++] = queue.peek();
+        }
+
+        return res;
+    }
+}
