@@ -50,7 +50,7 @@ class Solution {
     }
 }
 
-//解法二:
+//解法二:大顶堆法
 //利用大顶堆的peek()是最大值，remove(num)可以直接去除num元素，每一轮去掉一个数，再添加一个数，将当前peek添加到结果中
 //时间复杂度 nlogn   堆每次删除和插入都是 logn的时间复杂度
 class Solution {
