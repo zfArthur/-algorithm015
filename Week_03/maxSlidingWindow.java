@@ -70,7 +70,7 @@ class Solution {
         res[j++] = queue.peek();
         //从k开始滑动
         for (int i = k; i < nums.length; i++){
-            //将窗口前滑出的元素删掉
+            //将窗口前已经用过的元素删掉
             queue.remove(nums[i - k]);
             //将窗口后滑到的元素放入大顶堆中排序
             queue.add(nums[i]);
