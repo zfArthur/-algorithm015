@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a5c089b-0517-4961-85ab-2cbafd15f70a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_06/rob2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_06/uniquePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week_06/uniquePaths.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a5c089b-0517-4961-85ab-2cbafd15f70a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week_06/minimumTotal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state relative-caret-position="387">
+              <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -253,17 +249,18 @@
       <workItem from="1601813848997" duration="1263000" />
       <workItem from="1601866874561" duration="581000" />
       <workItem from="1601988055002" duration="2432000" />
-      <workItem from="1602038728358" duration="2512000" />
+      <workItem from="1602038728358" duration="2640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103989000" />
+    <option name="totallyTimeSpent" value="104117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1211" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21214713" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21214713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -662,8 +659,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_06/minimumTotal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="387">
+          <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
         </state>
       </provider>
     </entry>
