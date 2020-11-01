@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a5c089b-0517-4961-85ab-2cbafd15f70a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_08/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_08/selectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,17 +14,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week_09/[11]盛最多水的容器.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>climbStairs</find>
+      <find>subsets</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/Week_07</dir>
@@ -118,8 +111,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,16 +125,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Week_01/homework/arithmetic" />
-      <recent name="$PROJECT_DIR$/Week_01/homework/exercises" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_09" />
       <recent name="$PROJECT_DIR$/Week_08" />
       <recent name="$PROJECT_DIR$/Week_07" />
       <recent name="$PROJECT_DIR$/Week_06" />
       <recent name="$PROJECT_DIR$/Week_04" />
-      <recent name="$PROJECT_DIR$/Week_03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_01/homework/arithmetic" />
+      <recent name="$PROJECT_DIR$/Week_01/homework/exercises" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -194,17 +187,20 @@
       <workItem from="1603700094269" duration="170000" />
       <workItem from="1603766274087" duration="1975000" />
       <workItem from="1603785656106" duration="2594000" />
-      <workItem from="1603856497388" duration="4878000" />
+      <workItem from="1603856497388" duration="5543000" />
+      <workItem from="1604024244151" duration="2696000" />
+      <workItem from="1604112576522" duration="598000" />
+      <workItem from="1604219911455" duration="275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121359000" />
+    <option name="totallyTimeSpent" value="125593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1211" height="777" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24421594" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2570694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -619,7 +615,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_09/[11]盛最多水的容器.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
